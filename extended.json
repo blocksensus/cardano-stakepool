@@ -21,14 +21,13 @@
             "vat_id": ""
         },
         "about": {
+            "me": "",
+            "server": "",
             "company": "Our aim is to contribute to the blockchain industry by promoting and providing reliable and secure stacking services and in this way keep blockchains projects, we engaged with, more secured and decentralised"
         },
     "my-pool-ids": {
-        "0": "45118342a7e0ca4d5984c12b5c966774d54aa7eb64adfc2545919215"
-      },
-         "telegram-admin-handle": {
-        "0": "blocksensus_cardano"
+        "0": "45118342a7e0ca4d5984c12b5c966774d54aa7eb64adfc2545919215",
+        "1": ""
+      }
     }
-    }
-   
 }
